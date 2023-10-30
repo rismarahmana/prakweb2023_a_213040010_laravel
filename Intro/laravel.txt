@@ -1,0 +1,56 @@
+01. Web Application Framework
+    - sebuah kerangka yang di desain untuk mendukung pembangunan
+      aplikasi web.
+    - menyediakan standar / cara untuk membangun aplikasi web.
+    - bertujuan untuk mengotomasi hal-hal umum yang biasanya dilakukan 
+      saat membangun aplikasi web.
+    - contoh : database library, templating engine, session management,
+      authentication, security, dll.
+
+02. Laravel
+    - dibuat oleh Taylor Otwel, Juni 2011
+    - sebagai alternatif framework untuk codelgniter
+
+03. filosofi Laravel
+we believe development must be an enjoyable, creative,
+experience to be truly fulfilling - taylor otwell
+
+04. Tujuan Laravel
+Laravel aims to make the development process a pleasing one for the 
+developer without sacrificing app functionality. 
+Happy devs make the best code. - taylor otwell
+
+05. fitur utama pada Laravel
+- MVC
+- templating engine
+- artisan console
+- eloquent ORM 
+- authentication and authorization 
+- testing 
+- packing system
+- multiple file system
+- task scheduling 
+- websocket programming
+
+06. ekosistem Laravel
+Vapor, horizon, lumen, valet, forge, dll.
+
+07. Website dibuat dengan Laravel
+awwwards.com/websites/laravel
+
+08. Pre-requisite
+- PHP dasar
+- OO PHP
+- Konsep MVC
+
+09. Requirement
+- PHP terbaru, 
+- MySQL, 
+- Composer, 
+- SequelPro/MySQL Workbench, 
+- terminal/cmd/powershell/gitbash, 
+- Visual Studi Code, 
+- extensions :
+(PHP intelephense, Laravel artisan, 
+Laravel Snippets, Laravel Blade Snippets, 
+Laravel Blade Spacer, Laravel GoTo View).
